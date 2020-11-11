@@ -4,4 +4,4 @@ from connect import *
 
 patient = get_current("Patient")
 case = get_current("Examination")
-print('hello')
+print('working on this')
